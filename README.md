@@ -21,3 +21,15 @@ Running command for crafting identity masks:
 ```python
 python run.py
 ```
+
+### Citation
+If you benefit from our work in your research, please consider to cite the following paper:
+
+	@InProceedings{Yang_2021_ICCV,
+	    author    = {Yang, Xiao and Dong, Yinpeng and Pang, Tianyu and Su, Hang and Zhu, Jun and Chen, Yuefeng and Xue, Hui},
+	    title     = {Towards Face Encryption by Generating Adversarial Identity Masks},
+	    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+	    month     = {October},
+	    year      = {2021},
+	    pages     = {3897-3907}
+	}
